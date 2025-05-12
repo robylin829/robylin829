@@ -3,14 +3,14 @@
 
 Hi 👋 My name is Roby LIn
 ==========================
-
+[![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](robylin829@gmail.com)
 個人簡介
 ---
 
 
 
 * 🌍  I'm based in Taipe
-* 🖥️  See my portfolio at [My out](http://robylin829.github.io/personal-website/)
+* 🖥️  See my portfolio at [My website](http://robylin829.github.io/personal-website/)
 * ✉️  You can contact me at [robylin@gmail.com](mailto:robylin@gmail.com)
 * 🧠  I'm learning deepmind
 * 🤝  I'm open to collaborating on trs
