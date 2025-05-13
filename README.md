@@ -16,7 +16,7 @@ Hi 👋 My name is Roby Lin
 
 * 🌍  I'm based in Taipe
 * 🖥️  See my portfolio at [My website](http://robylin829.github.io/personal-website/)
-* ✉️  You can contact me at [robylin@gmail.com](mailto:robylin@gmail.com)
+* ✉️  You can contact me at [robylin@gmail.com](mailto:robylin829@gmail.com)
 * 🧠  I'm learning deepmind
 * 🤝  I'm open to collaborating on trs
 
